@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Gennaro!
 
-<!--
-**Gemod/Gemod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub. Here you'll find a collection of my digital passions: from backend development, writing tools, and data-driven mini projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What you'll find here
+
+🧩 **Java/Quarkus Projects**  
+Microservices, custom archetypes, REST controllers, integration tests, and MongoDB aggregations — all designed with scalability and architectural clarity in mind.
+
+
+
+
+## 💡 My Interests
+
+- Backend development (Java, Quarkus, Spring Boot)
+- Microservice architectures & technical documentation
+- API integrations (OpenAI, Notion, Google Workspace)
+
+---
+
+## 🛠️ Favorite Stack
+
+```bash
+Java • Quarkus • MongoDB • Maven • RestAssured • OpenAPI  
+Apps Script • Python • Make.com  • Notion API
