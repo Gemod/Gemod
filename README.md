@@ -13,7 +13,6 @@ I've been coding since I was 15, and that spark never faded. Today, I'm a **seni
        src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
    </p>
----
 
 ## 💻 Code is my language, curiosity my fuel
 
