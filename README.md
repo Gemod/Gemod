@@ -44,6 +44,8 @@ Lately, I’ve been diving headfirst into **Kubernetes**, and I’m genuinely ex
 
 🚀 **Bonus** — Personal projects, intriguing technologies, and full learning paths with real examples and theory.
 
+💬 **Ask me** - about Backend stuff, kubernets, restAPI, architecture, docker
+
 ---
 😽🙌🏻🙌🏻
 ## 💡 My Interests
@@ -55,9 +57,4 @@ Lately, I’ve been diving headfirst into **Kubernetes**, and I’m genuinely ex
 
 ---
 
-## 🛠️ Favorite Stack
-
-```bash
-Java • Quarkus • Spring Boot • MongoDB • Maven • RestAssured • OpenAPI  
-Kubernetes • Apps Script • Python • GoLang
 
