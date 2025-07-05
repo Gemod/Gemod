@@ -5,7 +5,7 @@ Welcome to my corner of GitHub — where code meets creativity.
 I've been coding since I was 15, and that spark never faded. Today, I'm a **senior developer** @Altermaind with a deep love for clean architecture, meaningful automation, and tools that make digital life smoother.
 <p align="left">
    <a href="https://github.com/gemod?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gemod?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/gemod?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://www.linkedin.com/in/gennaro-modafferi-a27540ba/" target="_blank">
