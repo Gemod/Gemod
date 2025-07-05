@@ -7,7 +7,7 @@ I've been coding since I was 15, and that spark never faded. Today, I'm a **seni
    <a href="https://github.com/gemod?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gemod?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/gemod?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gemod?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://www.linkedin.com/in/gennaro-modafferi-a27540ba/" target="_blank">
   <img alt="LinkedIn" title="Connect on LinkedIn" 
        src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
