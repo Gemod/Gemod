@@ -26,11 +26,7 @@ Lately, I’ve been diving headfirst into **Kubernetes**, and I’m genuinely ex
 🧩 **Java/Quarkus Projects**  
 Custom archetypes, REST APIs, microservice patterns, integration tests, and MongoDB pipelines — engineered for clarity and scalability.
 
-✍️ **Tools for Copywriters and Creators**  
-From AI-powered brainstorming to smart formatting scripts, brainstorming new ideas. 
-
-
-🚀 **Bonus
+🚀 **Bonus**
 You will find all the personal projects, technologies that intrigue me, entire learning paths on new technologies that I am exploring with examples and theory.
 ---
 😽🙌🏻🙌🏻
