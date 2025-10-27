@@ -42,6 +42,12 @@ Lately, I’ve been diving headfirst into **Kubernetes**, and I’m genuinely ex
 
 🧩 **Java/Quarkus Projects** — Custom archetypes, REST APIs, microservice patterns, integration tests, and MongoDB pipelines — engineered for clarity and scalability.
 
+☸️ **Kubernetes** & Cloud-Native Journey — Currently building a structured repository focused on Kubernetes certifications (CKAD ✅, CKA, CKS, KNCA, KNSA). It includes study notes, real exercises, and practical examples to master cloud-native concepts and container orchestration.
+
+# 🧭 Kubernetes Certifications Journey  
+[![CKAD Certified](https://img.shields.io/badge/CKAD-Certified-blue?logo=kubernetes&logoColor=white)](https://www.credly.com/earner/earned/share/c96dcc31-22ff-46a6-8e0a-9bd8c4168fd6)
+
+
 🚀 **Bonus** — Personal projects, intriguing technologies, and full learning paths with real examples and theory.
 
 💬 **Ask me** - about Backend stuff, kubernets, restAPI, architecture, docker
