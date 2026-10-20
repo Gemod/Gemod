@@ -56,11 +56,11 @@ Lately, I’ve been diving headfirst into **Kubernetes**, and I’m genuinely ex
 😽🙌🏻🙌🏻
 ## 💡 My Interests
 
-- Backend development (Java, Quarkus, Spring Boot)
+- Backend development (Java, Quarkus, Spring Boot),Microservices & system design
 - Kubernetes (currently obsessed)
-- Microservices & architecture decisions
+- DevOps
 - Integrating APIs like OpenAI, Claude mcp.
-
+- AI
 ---
 
 
