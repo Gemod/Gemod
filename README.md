@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gennaro!
 
-Welcome to my corner of GitHub — where code meets creativity.
+Welcome to my corner of GitHub, where code meets creativity.
 
 I've been coding since I was 15, and that spark never faded. Today, I'm a **senior developer** @Altermaind with a deep love for clean architecture, meaningful automation, and tools that make digital life smoother.
 <p align="left">
