@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub, where code meets creativity.
 
-I've been coding since I was 15, and that spark never faded. Today, I'm a **senior developer** @Altermaind with a deep love for clean architecture, meaningful automation, and tools that make digital life smoother.
+I've been coding since I was 15, and that spark never faded. Today, I'm a **senior developer** with a deep love for clean architecture, meaningful automation, and tools that make digital life smoother.
 <p align="left">
    <a href="https://github.com/gemod?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gemod?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
